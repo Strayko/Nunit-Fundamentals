@@ -1,0 +1,5 @@
+/packages
+/.vs
+/.idea
+.DS_Store
+.TestNinja.sln.DotSettings.user
