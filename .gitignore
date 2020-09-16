@@ -3,3 +3,9 @@
 /.idea
 .DS_Store
 .TestNinja.sln.DotSettings.user
+TestNinja.UnitTests/obj
+TestNinja.UnitTests/bin
+TestNinja/bin
+TestNinja/obj
+TestNinja/TestNinja.csproj
+TestNinja.UnitTests/packages.config
